@@ -1,0 +1,22 @@
+#e1(20Oct2025:22:58:09): source ./xcelium.d/env.d/env.history.20Oct2025_22_58_09
+s1(20Oct2025:22:58:09):  xrun -access +rwc -f ./flist 
+#e2(20Oct2025:23:11:22): source ./xcelium.d/env.d/env.history.20Oct2025_23_11_22
+s2(20Oct2025:23:11:22):  xrun -access +rwc -f ./flist 
+#e3(20Oct2025:23:14:37): source ./xcelium.d/env.d/env.history.20Oct2025_23_14_37
+s3(20Oct2025:23:14:37):  xrun -access +rwc -f ./flist 
+#e4(20Oct2025:23:55:50): source ./xcelium.d/env.d/env.history.20Oct2025_23_55_50
+s4(20Oct2025:23:55:50):  xrun -access +rwc -f ./flist 
+#e5(21Oct2025:01:00:17): source ./xcelium.d/env.d/env.history.21Oct2025_01_00_17
+s5(21Oct2025:01:00:17):  xrun -access +rwc -f ./flist 
+#e6(21Oct2025:09:43:37): source ./xcelium.d/env.d/env.history.21Oct2025_09_43_37
+s6(21Oct2025:09:43:37):  xrun -access +rwc -f ./flist 
+#e7(21Oct2025:14:43:11): source ./xcelium.d/env.d/env.history.21Oct2025_14_43_11
+s7(21Oct2025:14:43:11):  xrun -access +rwc -f ./flist 
+#e8(21Oct2025:19:05:12): source ./xcelium.d/env.d/env.history.21Oct2025_19_05_12
+s8(21Oct2025:19:05:12):  xrun -access +rwc -f ./flist 
+#e9(22Oct2025:00:02:38): source ./xcelium.d/env.d/env.history.22Oct2025_00_02_38
+s9(22Oct2025:00:02:38):  xrun -access +rwc -f ./flist 
+#e10(22Oct2025:00:07:39): source ./xcelium.d/env.d/env.history.22Oct2025_00_07_39
+s10(22Oct2025:00:07:39):  xrun -access +rwc -f ./flist 
+#e11(22Oct2025:15:05:18): source ./xcelium.d/env.d/env.history.22Oct2025_15_05_18
+s11(22Oct2025:15:05:18):  xrun -access +rwc -f ./flist 
